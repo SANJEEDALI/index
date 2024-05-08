@@ -1,0 +1,57 @@
+.heading > .logo > img
+{
+    height:200px;
+    width:200px;
+    margin-top:50px;
+    margin-left:50px;
+}
+.heading > .head
+{
+    margin-left:250px;
+    margin-top:-150px;
+    background-color: skyblue;
+}
+.heading > .menu
+{
+    margin-left: 350px;
+ 
+}
+.heading > .menu > ul
+{
+    list-style-type: none;
+}
+.menu > ul > a > li
+{
+    display: inline;
+    margin-left: 300px;
+}
+.content
+{
+    margin-left:250px;
+}
+.footer
+{
+    text-align: center;
+    background-color: aqua;
+}
+.course
+{
+    margin-left: 250px;    
+}
+.course > table
+{
+    border-style: solid;
+    width: 500px;
+    height: 200px;
+
+}
+.selection
+{
+   margin-left:250PX;
+   background-color: lightblue;
+}
+ a
+ {
+    text-decoration:none;
+    background-color: aliceblue;
+ }

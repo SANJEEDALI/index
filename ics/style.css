@@ -1,0 +1,25 @@
+.heading > .logo > img 
+{
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.heading > .head 
+{
+    margin-left: 300px;
+    margin-top: -150px;
+}
+.heading > .menu
+{
+    margin-left: 250px;
+}
+.heading > .menu > ul 
+{
+    list-style-type: none;
+}
+.heading > .menu > ul > li 
+{
+    display: inline;
+    margin-right: 100px;
+}
